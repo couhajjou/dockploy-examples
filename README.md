@@ -1,4 +1,5 @@
 # Dokploy Examples
+ok
 
 ---
 This repository contains examples of how to deploy applications using Dokploy.
